@@ -1,16 +1,13 @@
 package com.example.androidtest.di
 
-import android.content.Context
-import android.content.SharedPreferences
 import com.example.androidtest.BuildConfig
-import com.example.androidtest.repo.RepoImpl
 import com.example.androidtest.repo.Repo
+import com.example.androidtest.repo.RepoImpl
 import com.example.androidtest.rest.RestApi
 import com.example.androidtest.utils.SchedulerProvider
 import com.google.gson.GsonBuilder
 import dagger.Module
 import dagger.Provides
-import io.reactivex.Scheduler
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.schedulers.Schedulers
 import okhttp3.OkHttpClient

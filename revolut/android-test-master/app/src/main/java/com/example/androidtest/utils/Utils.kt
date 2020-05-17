@@ -2,10 +2,6 @@ package com.example.androidtest.utils
 
 import android.content.Context
 import android.net.ConnectivityManager
-import java.text.DateFormat
-import java.text.DecimalFormat
-import java.text.SimpleDateFormat
-import java.util.*
 
 /**
  * Checks internet connection

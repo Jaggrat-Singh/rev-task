@@ -82,7 +82,6 @@ class MainActivity : AppCompatActivity(), Injectable, OnCurrencyTappedListener {
     private fun observeConversionRates() {
         viewModel.exchangeModel.observe(this, Observer { model ->
             if (model != null) {
-                Log.d("jaggrat activit", Thread.currentThread().name)
                 recycler_view.post {
                     adapter.setConversionData(model)
                 }
