@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android tasks-weather-info-master-android-test-master.iml" filepath="$PROJECT_DIR$/android tasks-weather-info-master-android-test-master.iml" group="android-test-master" />
+      <module fileurl="file://$PROJECT_DIR$/android-test.iml" filepath="$PROJECT_DIR$/android-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/android-test-master.iml" filepath="$PROJECT_DIR$/.idea/android-test-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/android-test-master-app.iml" filepath="$PROJECT_DIR$/app/android-test-master-app.iml" group="android-test-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revolut-android-test-master.iml" filepath="$PROJECT_DIR$/revolut-android-test-master.iml" group="android-test-master" />
+      <module fileurl="file://$PROJECT_DIR$/weather-info-master-android-test-master.iml" filepath="$PROJECT_DIR$/weather-info-master-android-test-master.iml" group="android-test-master" />
+    </modules>
+  </component>
+</project>

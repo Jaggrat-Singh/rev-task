@@ -1,0 +1,9 @@
+<resources>
+	<string name="app_name">android-test</string>
+	<string name="internet_warning">Please check your internet connection. And restart the app.</string>
+	<string name="currency_format">%.2f</string>
+	<string name="base_currency">EUR</string>
+	<string name="base_value">100</string>
+	<string name="data_error">There is an problem while getting the data. Please try again.</string>
+	<string name="api_down">Api is down. Please check back in sometime.</string>
+</resources>
