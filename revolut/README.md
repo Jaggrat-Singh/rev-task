@@ -18,5 +18,9 @@ Test case report:
 
 ![alt text](https://github.com/Jaggrat-Singh/rev-task/blob/master/revolut/test_report.png)
 
+Memory Profile: No leaks
+![alt test](https://github.com/Jaggrat-Singh/rev-task/blob/master/revolut/memory-snap.png)
 
+App Profile: No API call once user close app.
+![alt test](https://github.com/Jaggrat-Singh/rev-task/blob/master/revolut/app-profile.png)
 
