@@ -16,6 +16,7 @@ Note: If I had more time I could have done the better job in UI. I could have us
 
 Test case report: 
 
+![alt text](https://github.com/Jaggrat-Singh/rev-task/blob/master/revolut/test_report.png)
 
 
 
